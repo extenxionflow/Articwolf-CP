@@ -1,0 +1,17 @@
+🚀 BigOvie1: My Personal Space
+Welcome to my digital headquarters. This project is a living portfolio that bridges the gap between sonic production and technical development. Built entirely on mobile, it showcases my journey as a musician, artist, and aspiring Google Developer.
+🛠 Features
+Mobile-First Design: Optimized specifically for high-performance viewing on smartphones.
+Gold & Dark Aesthetic: A sleek, high-contrast theme reflecting my artistic brand.
+Integrated Gallery: Showcasing live tracks from BandLab and visual art projects.
+Smooth Navigation: Seamless scrolling and interactive skill cards.
+💻 Tech Stack
+Frontend: HTML5, CSS3 (Grid & Flexbox)
+Tools: Developed on Android, Hosted via GitHub Pages
+Creative: BandLab (Music Production), Digital Illustration
+
+📂 Repository Structure
+├── index.html       # Main site structure
+├── style.css        # Custom gold-accented styling
+├── assets/          # Project images and track covers
+└── README.md        # You are here!
