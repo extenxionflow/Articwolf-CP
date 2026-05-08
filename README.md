@@ -1,5 +1,6 @@
 # Articwolf-CP
-🚀 BigOvie1: My Personal Space
+🚀 BigOvie1
+My Personal Space
 Welcome to my digital headquarters. This project is a living portfolio that bridges the gap between sonic production and technical development. Built entirely on mobile, it showcases my journey as a musician, artist, and aspiring Google Developer.
 🛠 Features
 Mobile-First Design: Optimized specifically for high-performance viewing on smartphones.
